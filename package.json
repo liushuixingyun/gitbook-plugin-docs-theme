@@ -1,5 +1,5 @@
 {
-    "name": "yunhuni-server-api-docs-theme",
+    "name": "gitbook-plugin-docs-theme",
     "description": "Official theme for GitBook.com documentations",
     "version": "2.1.1",
     "engines": {
@@ -15,12 +15,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/GitbookIO/theme-official.git"
+        "url": "https://github.com/liushuixingyun/gitbook-plugin-docs-theme.git"
     },
     "author": "FriendCode Inc. <contact@gitbook.com>",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/GitbookIO/theme-official/issues"
+        "url": "https://github.com/liushuixingyun/gitbook-plugin-docs-theme/issues"
     },
     "contributors": [
         {
