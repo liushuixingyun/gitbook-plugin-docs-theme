@@ -5,7 +5,7 @@
     "engines": {
         "gitbook": ">=3.0.0-pre.8"
     },
-    "devDependencies": {
+    "dependencies": {
         "less": "2.6.0",
         "less-plugin-clean-css": "1.5.1",
         "gitbook-styleguide": "5.9.2"
