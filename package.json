@@ -5,13 +5,13 @@
     "engines": {
         "gitbook": ">=3.0.0-pre.8"
     },
-    "dependencies": {
+    "devDependencies": {
         "less": "2.6.0",
         "less-plugin-clean-css": "1.5.1",
         "gitbook-styleguide": "5.9.2"
     },
     "scripts": {
-        "postinstall": "./src/build.sh"
+        "prepublish": "./src/build.sh"
     },
     "repository": {
         "type": "git",
